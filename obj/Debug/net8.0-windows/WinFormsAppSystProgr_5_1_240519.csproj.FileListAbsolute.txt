@@ -1,0 +1,17 @@
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240519\bin\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240519.exe
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240519\bin\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240519.deps.json
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240519\bin\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240519.runtimeconfig.json
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240519\bin\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240519.dll
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240519\bin\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240519.pdb
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240519\obj\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240519.Form1.resources
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240519\obj\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240519.Res.resources
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240519\obj\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240519.csproj.GenerateResource.cache
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240519\obj\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240519.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240519\obj\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240519.AssemblyInfoInputs.cache
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240519\obj\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240519.AssemblyInfo.cs
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240519\obj\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240519.csproj.CoreCompileInputs.cache
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240519\obj\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240519.dll
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240519\obj\Debug\net8.0-windows\refint\WinFormsAppSystProgr_5_1_240519.dll
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240519\obj\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240519.pdb
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240519\obj\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240519.genruntimeconfig.cache
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240519\obj\Debug\net8.0-windows\ref\WinFormsAppSystProgr_5_1_240519.dll
